@@ -1,2 +1,0 @@
-# wixAAAinvest
-trial
